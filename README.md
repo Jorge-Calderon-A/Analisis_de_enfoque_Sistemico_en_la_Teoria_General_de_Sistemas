@@ -1,1 +1,3 @@
-# Analisis_de_enfoque_Sistemico_en_la_Teoria_General_de_Sistemas
+Como personas hemos obtenido una perspección del mundo muy particular que depende de nuestro lugar de nacimiento, existen diversas areas que intentan explicar que mi manera de ver el mundo no es la misma que la suya, y a la vez, su manera de ver el mundo no es la misma para un conocido suyo.
+
+La teoría general de los sistemas se enfoca en esta area, ¿Somos capaces de interpretar un sistema? La respuesta mas practica seria que si, sin embargo, ¿Desde que punto de vista? ¿Analizo un sistema, pero si mi similar lo ve diferente?. En este sentido es muy importante definir un sistema, en esta ocasión entregare herramientas muy importantes para que un sistema se pueda analizar como un #Enfoque Sistemico# 
