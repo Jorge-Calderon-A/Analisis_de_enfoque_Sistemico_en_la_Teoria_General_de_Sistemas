@@ -8,7 +8,7 @@ Como lo dice, la Perspección Selectiva es  algo que muchos o la mayoria de los 
 
 Bueno, para analizar un sistema lo primero que debemos hacer es suprimir la Perspección Selectiva hasta cierta manera con el fin de que sea manejable, esto es necesario ya que nos ayuda a comprender los sistemas y sus interrelaciones desde un enfoque sistémico sin necesidad de caer en una redundancia en su interes.
 
-Imagine un proceso que esta dividido en 5 áreas, una de estas áreas es la de su interes, objetivamente usted prestara mas atención a esta y concluira en un analisis critico mas estructurado en esta parte del proceso, pero ¿Que pasa con lo demas?.
+Imagine un proceso que esta dividido en 5 áreas, una de estas áreas es la de su interes, objetivamente usted prestara mas atención a esta y concluira en un analisis critico mas estructurado en esta parte del proceso, pero ¿Que pasa con lo demas?, ¿Usted sería capaz de detallar el porque estas partes del proceso no son importantes?.
 
-
+#2. Sinergia
 
