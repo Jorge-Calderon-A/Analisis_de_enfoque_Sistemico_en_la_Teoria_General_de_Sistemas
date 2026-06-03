@@ -1,0 +1,1 @@
+# Analisis_de_enfoque_Sistemico_en_la_Teoria_General_de_Sistemas
